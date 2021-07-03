@@ -5,9 +5,6 @@ O ano está acabando, e as festas de final de ano estão se aproximando.
 Seu Jertuz pretende dar uma bonificação para ajudar seus funcionarios com as festas, a bonificação será um percentual tendo como base o salário de cada tipo de funcionário de seu estacionamento. 
 
 #### Seguem regras de percentual conforme função:  
-- Caixa: 10% 
-- Manobrista: 12% 
-- Segurança: 9% 
 
 Função | Percentual bônus
 ------------ | -------------
