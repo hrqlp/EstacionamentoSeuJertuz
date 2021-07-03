@@ -7,7 +7,7 @@ Seu Jertuz possui um estacionamento numa cidade fictícia chamada Bolindiqueijo,
 ##### Neste desafio você aprenderá: 
 - Lógica
 - Cenários reais  
-- Introdução a python, contado com:
+- Introdução a python, contando com:
 	- Expressões:
 		- Aritméticas
 		- Literais
@@ -16,3 +16,4 @@ Seu Jertuz possui um estacionamento numa cidade fictícia chamada Bolindiqueijo,
 	- Condições
 	- Desvios de fluxos
   	- Laços
+### E aí, bora codar? 
